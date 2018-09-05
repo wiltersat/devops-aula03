@@ -6,3 +6,5 @@ Mercurial
 Gitlab
 Subversion
 CVS
+
+Wilter Rogerio Satake
